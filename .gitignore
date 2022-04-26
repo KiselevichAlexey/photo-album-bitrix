@@ -1,0 +1,21 @@
+### логи
+/*.log
+/modules/updater.log
+/modules/updater_partner.log
+
+### настройки
+.settings.php
+.settings_extra.php
+/php_interface/dbconn.php
+
+### backups
+/backup/*
+
+### cache
+/cache/*
+/managed_cache/*
+/stack_cache/*
+/html_pages/*
+
+### exports
+/catalog_export/*
